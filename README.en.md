@@ -4,6 +4,8 @@
 
 [한국어](README.md)
 
+![BEAT Bandroom automatic mastering preview](BEAT-auto-preview.png)
+
 ## Why I built it
 
 I enjoy listening to music, but I do not have a background in writing lyrics or composing music. I wanted to address a listening problem I had noticed without having professional music-production knowledge, so I chose vibe coding: describing the features I wanted and implementing them with AI assistance.
