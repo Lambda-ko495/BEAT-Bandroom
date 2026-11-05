@@ -4,6 +4,8 @@
 
 [English](README.en.md)
 
+![BEAT Bandroom automatic mastering preview](BEAT-auto-preview.png)
+
 ## 만든 이유
 
 저는 음악을 듣는 것을 좋아하지만, 작사나 작곡에 대해서는 잘 모릅니다. 음악 제작의 전문 지식 없이도 직접 느낀 불편을 해결해 보고 싶어, 원하는 기능을 말로 설명하고 AI의 도움으로 구현하는 바이브 코딩 방식을 선택했습니다.
